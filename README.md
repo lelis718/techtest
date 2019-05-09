@@ -9,3 +9,6 @@ Red Test - All Failed due to lack of implementation
 
 ## Third Commit
 Green Test - Quick implementation, all tests passed
+
+## Fourth Commit
+Refactor - A First SOLID implementation
