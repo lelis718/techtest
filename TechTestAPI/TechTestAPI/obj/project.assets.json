@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj",
       "projectName": "TechTestAPI",
-      "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj",
+      "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI\\obj\\",
+      "outputPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

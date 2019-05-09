@@ -9149,11 +9149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI_Tests\\TechTestAPI_Tests.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI_Tests\\TechTestAPI_Tests.csproj",
       "projectName": "TechTestAPI_Tests",
-      "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI_Tests\\TechTestAPI_Tests.csproj",
+      "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI_Tests\\TechTestAPI_Tests.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI_Tests\\obj\\",
+      "outputPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9173,8 +9173,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj": {
-              "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj"
+            "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj": {
+              "projectPath": "C:\\Desenvolvimento\\Pessoal\\Entrevistas\\HRLocker-Ireland\\techtest\\TechTestAPI\\TechTestAPI\\TechTestAPI.csproj"
             }
           }
         }

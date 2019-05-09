@@ -89,10 +89,10 @@ namespace TechTestAPI_Tests.ControllerTests
             Assert.NotNull(homepayResponse);
             Assert.True(homepayResponse.EmployeeLocation == "Italy");
             Assert.True(homepayResponse.GrossAmount == 2000.0m);
-            Assert.True(homepayResponse.IncomeTax == (682.25m) ); //500.0m + 182.25m - Income Tax and INPS Contribution
+            Assert.True(homepayResponse.IncomeTax == (567.50m) ); //500.0m + 67.50m - Income Tax and INPS Contribution
             Assert.True(homepayResponse.UniversalSocialCharge == 0m);
             Assert.True(homepayResponse.Pension == 0m);
-            Assert.True(homepayResponse.NetAmount == 1317.75m); //2000.0m - 682.25m
+            Assert.True(homepayResponse.NetAmount == 1432.50m); //2000.0m - 567.50m
 
         }
 
