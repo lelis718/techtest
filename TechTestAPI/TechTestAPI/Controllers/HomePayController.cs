@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Web.Http.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TechTestAPI.Domain;
@@ -10,7 +11,7 @@ using TechTestAPI.ViewModels;
 
 namespace TechTestAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/home-pay")]
     [ApiController]
     public class HomePayController : ControllerBase
     {
@@ -28,7 +29,9 @@ namespace TechTestAPI.Controllers
 
         }
 
+
         [AcceptVerbs("Post")]
+        [Route("calculate-gross-amount")]
         public async Task<IActionResult> CalculateGrossAmount(HomePayCalculateRequest employeeRequest)
         {
             validateRequest(employeeRequest);
