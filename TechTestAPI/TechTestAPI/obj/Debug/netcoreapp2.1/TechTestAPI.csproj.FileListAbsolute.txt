@@ -1,0 +1,14 @@
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\bin\Debug\netcoreapp2.1\TechTestAPI.deps.json
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\bin\Debug\netcoreapp2.1\TechTestAPI.runtimeconfig.json
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\bin\Debug\netcoreapp2.1\TechTestAPI.runtimeconfig.dev.json
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\bin\Debug\netcoreapp2.1\TechTestAPI.dll
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.csprojAssemblyReference.cache
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.RazorAssemblyInfo.cache
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.RazorAssemblyInfo.cs
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.AssemblyInfo.cs
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.RazorTargetAssemblyInfo.cache
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\bin\Debug\netcoreapp2.1\TechTestAPI.pdb
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.dll
+C:\Desenvolvimento\Pessoal\Entrevistas\HRLocker-Ireland\TechTestAPI\TechTestAPI\obj\Debug\netcoreapp2.1\TechTestAPI.pdb
